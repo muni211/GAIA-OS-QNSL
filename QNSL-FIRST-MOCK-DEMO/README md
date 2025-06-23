@@ -6,7 +6,12 @@
 # QNSL First Mock Demo  
 (Superpositioned Quantum-Classic Natural Supreme Language)  
 
----
+---הערה חשובה לגבי מנוע מולטימדיה (SCMP)
+
+בדמו הנוכחי המוקד הוא על מודול עיבוד השפה הטבעית (SNLP) וסימולציה של רכיבים קוונטיים.
+כרגע הדמו לא כולל את מנוע המולטימדיה (SCMP) – Superpositioned Creative Multimodal Processor.
+דמו נפרד ומורחב הכולל גם את מנוע ה-SCMP יפותח ויפורסם בהמשך.
+
 
 ## תיאור כללי
 
